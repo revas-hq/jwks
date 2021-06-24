@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	jwks "github.com/revas-hq/go-jwks"
+	"github.com/revas-hq/jwks"
 )
 
 func TestShouldErrorWithUnavailableKeys(t *testing.T) {

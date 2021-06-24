@@ -10,7 +10,7 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	jwks "github.com/revas-hq/go-jwks"
+	"github.com/revas-hq/jwks"
 )
 
 func Example() {

@@ -1,4 +1,4 @@
-module github.com/revas-hq/go-jwks
+module github.com/revas-hq/jwks
 
 go 1.16
 
